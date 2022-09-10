@@ -1,0 +1,38 @@
+[
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "legacy-support-v4",
+    "excludes": [],
+    "groupId": "androidx.legacy",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "material",
+    "excludes": [],
+    "groupId": "com.google.android.material",
+    "versionName": "1.0.0-rc01"
+  },
+  {
+    "artifactId": "cardview",
+    "excludes": [],
+    "groupId": "androidx.cardview",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "coordinatorlayout",
+    "excludes": [],
+    "groupId": "androidx.coordinatorlayout",
+    "versionName": "1.1.0"
+  },
+  {
+    "artifactId": "viewpager",
+    "excludes": [],
+    "groupId": "androidx.viewpager",
+    "versionName": "1.1.0"
+  }
+]
